@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishanmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="rishanmenezes" /> </p>
 
 - 👨‍💻 I’m currently working on [Projects](https://github.com/rishanmenezes/PRODIGY_WD_01)
-- 💻 All of my projects are available on [GitHub](https://github.com/rishanmenezes)
+- 💻 All my projects are available on [GitHub](https://github.com/rishanmenezes)
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&locale=en" alt="rishanmenezes" /></p>
