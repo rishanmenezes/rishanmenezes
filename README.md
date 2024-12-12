@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on [Projects](https://github.com/rishanmenezes/PRODIGY_WD_01)
 - 💻 All my projects are available on [GitHub](https://github.com/rishanmenezes)
 - 💬 Ask me about Programming, Web Development
-- 📫 Reach out to me at rishanmenezes05@gmail.com
+- 📫 Reach out to me at rishanmenezes05@gmail.co
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&locale=en" alt="rishanmenezes" /></p>
