@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Web Development and Solving DSA
 - 👨‍💻 I’m currently working on [Projects](https://github.com/rishanmenezes?tab=repositories)
 - 💻 All my projects are available on [GitHub](https://github.com/rishanmenezes)
-- 💬 Ask me about Programming, Web Development
+- 💬 Ask me about Web Development, DSA
 - 📫 Reach out to me at rishanmenezes05@gmail.com
 
 <h3 align="left">GitHub Stats:</h3>
