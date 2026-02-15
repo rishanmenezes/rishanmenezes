@@ -1,9 +1,9 @@
-<h1 align="center">Hi👋 , I'm Rishan Menezes</h1
+<h1 align="center">Hi👋 , I'm Rishan Menezes</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishanmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="rishanmenezes" /> </p>
 
-- 🌱 I'm currently learning Full Stack Web Development and Solving DSA
+- 🌱 I'm currently learning Full Stack Web Development and solving DSA
 - 👨‍💻 I’m currently working on [Projects](https://github.com/rishanmenezes?tab=repositories)
 - 💻 All my projects are available on [GitHub](https://github.com/rishanmenezes)
 - 💬 Ask me about Web Development, DSA
