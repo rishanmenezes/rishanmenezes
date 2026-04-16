@@ -1,25 +1,57 @@
 <h1 align="center">Hi 👋, I'm Rishan Menezes</h1>
-<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishanmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="rishanmenezes" />
+  <img src="https://komarev.com/ghpvc/?username=rishanmenezes&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE Student passionate about building real-world projects  
-- 🌱 Currently learning **Full Stack Development & DSA**  
-- 💡 Interested in **Web Development, Problem Solving & System Design**  
-- 📌 Check out my work: [GitHub Projects](https://github.com/rishanmenezes?tab=repositories)  
+- 🎓 Computer Science Engineering student @ **Maharaja Institute of Technology, Mysore (VTU)**
+- 🤖 Specializing in **Artificial Intelligence, Reinforcement Learning & Full Stack Development**
+- 💡 Strong in **Data Structures & Algorithms, System Design, and Backend Development**
+- ⚡ Building **scalable applications + AI-driven systems**
+- 🏆 Hackathon participant & **Hacktoberfest 2025 Open Source Contributor**
 - 📫 Reach me at: **rishanmenezes05@gmail.com**
 
 ---
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git" />
-</p>
+### 🚀 Featured Projects
+
+#### 🔹 OpenEnv – Reinforcement Learning Customer Support System
+- Built a **deterministic RL environment** simulating real-world customer workflows  
+- Implemented using **Python, FastAPI, Docker**  
+- Designed structured **state/action spaces + reward shaping**  
+- ✅ Achieved **100% task success rate using baseline LLM agent**
+
+---
+
+#### 🔹 Intent & Trajectory Prediction System
+- Developed **LSTM-based deep learning model (PyTorch)**  
+- Implemented **multi-modal prediction (Best-of-K loss)**  
+- Improved prediction using **social context + goal conditioning**  
+- 📊 Metrics: **ADE: 14.11m | FDE: 13.73m**
+
+---
+
+#### 🔹 ClearCity – Smart Urban Data Platform
+- Built full-stack app using **React, TypeScript, Node.js, Express**  
+- Integrated **real-time analytics + interactive maps**  
+- Designed **scalable backend + responsive UI**
+
+---
+
+### 🧠 Technical Skills
+
+**Languages:**  
+C • JavaScript • TypeScript • Python • HTML • CSS  
+
+**Frameworks & Tools:**  
+React • Node.js • Express • FastAPI • Tailwind CSS • Docker • Git  
+
+**Core Concepts:**  
+Data Structures & Algorithms • OOP • Machine Learning • REST APIs • System Design  
 
 ---
 
@@ -31,6 +63,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 🏆 Achievements
+- 🥈 Secured **2nd Place – Cyber Sense Cyber Security Quiz**
+- 🌍 **Hacktoberfest 2025 Contributor** (Open Source)
+- 💻 Participated in **OdooxNMIT Hackathon & HackFest**
+- 🤝 Active member of **Stack Forge Coding Club**
 
 ---
 
