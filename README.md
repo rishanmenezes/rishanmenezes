@@ -42,7 +42,7 @@ Data Structures & Algorithms • OOP • Machine Learning • REST APIs • Syst
 ---
 
 ### 🏆 Achievements
-- 🥈 Secured **2nd Place – Cyber Sense Cyber Security Quiz**
+- 🥈 Secured **2nd Place – Cyber Sense (Cyber Security Quiz)**
 - 🌍 **Hacktoberfest 2025 Contributor** (Open Source)
 - 💻 Participated in **OdooxNMIT Hackathon & HackFest**
 - 🤝 Active member of **Stack Forge Coding Club**
