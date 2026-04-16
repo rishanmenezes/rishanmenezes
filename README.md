@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Engineering student @ **Maharaja Institute of Technology, Mysore (VTU)**
+- 🎓 Computer Science Engineering student @**Maharaja Institute of Technology, Mysore**
 - 🤖 Specializing in **Artificial Intelligence, Reinforcement Learning & Full Stack Development**
 - 💡 Strong in **Data Structures & Algorithms, System Design, and Backend Development**
 - ⚡ Building **scalable applications + AI-driven systems**
