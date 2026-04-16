@@ -17,31 +17,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 OpenEnv – Reinforcement Learning Customer Support System
-- Built a **deterministic RL environment** simulating real-world customer workflows  
-- Implemented using **Python, FastAPI, Docker**  
-- Designed structured **state/action spaces + reward shaping**  
-- ✅ Achieved **100% task success rate using baseline LLM agent**
-
----
-
-#### 🔹 Intent & Trajectory Prediction System
-- Developed **LSTM-based deep learning model (PyTorch)**  
-- Implemented **multi-modal prediction (Best-of-K loss)**  
-- Improved prediction using **social context + goal conditioning**  
-- 📊 Metrics: **ADE: 14.11m | FDE: 13.73m**
-
----
-
-#### 🔹 ClearCity – Smart Urban Data Platform
-- Built full-stack app using **React, TypeScript, Node.js, Express**  
-- Integrated **real-time analytics + interactive maps**  
-- Designed **scalable backend + responsive UI**
-
----
-
 ### 🧠 Technical Skills
 
 **Languages:**  
