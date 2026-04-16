@@ -12,7 +12,7 @@
 - 🤖 Specializing in **Artificial Intelligence, Reinforcement Learning & Full Stack Development**
 - 💡 Strong in **Data Structures & Algorithms, System Design, and Backend Development**
 - ⚡ Building **scalable applications + AI-driven systems**
-- 🏆 Hackathon participant & **Hacktoberfest 2025 Open Source Contributor**
+- 🏆 Multiple Hackathons participant & **Hacktoberfest 2025 Open Source Contributor**
 - 📫 Reach me at: **rishanmenezes05@gmail.com**
 
 ---
