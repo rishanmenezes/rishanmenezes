@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishan Menezes</h1
+<h1 align="center">Hi 👋, I'm Rishan Menezes</h1>
 <h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
 
 <p align="center">
