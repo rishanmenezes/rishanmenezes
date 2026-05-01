@@ -1,54 +1,75 @@
-```md
-# Hi 👋, I'm Rishan Menezes
-
-🚀 Full Stack Developer | AI/ML Enthusiast | DSA Problem Solver
+```md id="github-profile-readme"
+<h1 align="center">Hi 👋, I'm Rishan Menezes</h1>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Engineering student at Maharaja Institute of Technology, Mysore
-- 🤖 Interested in Artificial Intelligence, Reinforcement Learning & Full Stack Development
-- 💡 Strong in Data Structures & Algorithms, Backend Development, and System Design
-- ⚡ Building scalable applications and AI-driven systems
-- 🏆 Hackathon Participant & Hacktoberfest 2025 Contributor
-- 📫 Reach me at: **rishanmenezes05@gmail.com**
+- 🎓 Computer Science Engineering student @ Maharaja Institute of Technology, Mysore  
+- 🤖 Specializing in Artificial Intelligence, Reinforcement Learning & Full Stack Development  
+- 💡 Strong in Data Structures & Algorithms, System Design, and Backend Development  
+- ⚡ Building scalable applications + AI-driven systems  
+- 🏆 Multiple Hackathons participant & Hacktoberfest 2025 Open Source Contributor  
+- 📫 Reach me at **rishanmenezes05@gmail.com**
 
 ---
 
 ## 🧠 Technical Skills
 
-### Languages
-C • JavaScript • TypeScript • Python • HTML • CSS
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css" />
+</p>
 
-### Frameworks & Tools
-React • Node.js • Express • FastAPI • Tailwind CSS • Docker • Git
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,docker,git" />
+</p>
 
-### Core Concepts
-DSA • OOP • Machine Learning • REST APIs • System Design
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- Object Oriented Programming (OOP)  
+- Machine Learning  
+- REST APIs  
+- System Design  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishanmenezes05&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishanmenezes05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes05&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes05&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rishanmenezes05&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rishanmenezes05&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 Achievements
-- 🥈 Secured 2nd Place – Cyber Sense (Cyber Security Quiz)
-- 🌍 Hacktoberfest 2025 Open Source Contributor
-- 💻 Participated in OdooxNMIT Hackathon & HackFest
-- 🤝 Active Member of Stack Forge Coding Club
+- 🥈 Secured 2nd Place – Cyber Sense (Cyber Security Quiz)  
+- 🌍 Hacktoberfest 2025 Contributor (Open Source)  
+- 💻 Participated in OdooxNMIT Hackathon & HackFest  
+- 🤝 Active member of Stack Forge Coding Club  
 
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/)
-[GitHub](https://github.com/rishanmenezes05)
+
+<p align="left">
+  <a href="https://github.com/rishanmenezes05" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
