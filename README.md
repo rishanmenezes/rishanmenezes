@@ -65,8 +65,12 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rishan-menezes/" target="_blank">
+  <a href="https://www.linkedin.com/in/rishan-menezes" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/rizzshhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
