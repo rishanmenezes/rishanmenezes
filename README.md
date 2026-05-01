@@ -8,7 +8,7 @@
 - 🤖 Specializing in Artificial Intelligence, Reinforcement Learning & Full Stack Development  
 - 💡 Strong in Data Structures & Algorithms, System Design, and Backend Development  
 - ⚡ Building scalable applications + AI-driven systems  
-- 🏆 Multiple Hackathons participant & Hacktoberfest 2025 Open Source Contributor  
+- 🏆 Participant in multiple hackathons & Hacktoberfest 2025 Open Source Contributor  
 - 📫 Reach me at **rishanmenezes05@gmail.com**
 
 ---
@@ -37,15 +37,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishanmenezes05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishanmenezes05&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
   <a href="https://github.com/rishanmenezes" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/rishan-menezes/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
