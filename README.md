@@ -61,7 +61,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://github.com/rishanmenezes05](https://github.com/rishanmenezes)" target="_blank">
+  <a href="https://github.com/rishanmenezes" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
