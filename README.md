@@ -16,7 +16,7 @@ Building intelligent applications with modern web technologies and Artificial In
 - 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**
 - 🧠 Strong foundation in **Data Structures & Algorithms** and **Backend Development**
 - ⚡ Interested in building scalable applications and AI-powered solutions
-- 🏆 Hackathon Winner, Google Cloud Arcade Contributor & **Hacktoberfest 2025 Open Source Contributor**
+- 🏆 Multiple Hackathon Winner, Google Cloud Arcade Contributor & Hacktoberfest 2025 Open Source Contributor
 - 📫 Reach me at **rishanmenezes05@gmail.com**
 
 ---
