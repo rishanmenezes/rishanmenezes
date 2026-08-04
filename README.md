@@ -49,23 +49,7 @@ Building intelligent applications with modern web technologies and Artificial In
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌍 **EcoFinds** | AI-powered sustainable marketplace |
-| ✈️ **SkySmart** | AI Flight Booking Platform |
-| 🎓 **MIT Jnana** | Student Resource Hub |
-| 🤖 **OpenEnv** | AI Customer Support Ticket Resolution System |
-| 📚 **LastLeap** | AI-Powered Study Assistant |
-
----
-
 # 📊 GitHub Overview
-
-<p align="center">
-<img src="https://githubcard.com/rishanmenezes.svg" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true" />
