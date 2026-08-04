@@ -1,81 +1,107 @@
 <h1 align="center">Hi 👋, I'm Rishan Menezes</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | DSA Problem Solver</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer • AI/ML Enthusiast • Open Source Contributor
+</h3>
+
+<p align="center">
+Building intelligent applications with modern web technologies and Artificial Intelligence.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Engineering student @ Maharaja Institute of Technology, Mysore
-- 🤖 Specializing in Artificial Intelligence, Reinforcement Learning & Full Stack Development
-- 💡 Strong in Data Structures & Algorithms, System Design, and Backend Development
-- ⚡ Building scalable applications + AI-driven systems
-- 🏆 Participant in multiple hackathons & Hacktoberfest 2025 Open Source Contributor
+
+- 🎓 Computer Science Engineering Student at **Maharaja Institute of Technology, Mysore**
+- 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**
+- 🧠 Strong foundation in **Data Structures & Algorithms** and **Backend Development**
+- ⚡ Interested in building scalable applications and AI-powered solutions
+- 🏆 Hackathon Participant & **Hacktoberfest 2025 Open Source Contributor**
 - 📫 Reach me at **rishanmenezes05@gmail.com**
 
 ---
 
-## 🧠 Technical Skills
+# 💻 Tech Stack
 
-### 💻 Languages
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,docker,git" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind" />
 </p>
 
-### 📚 Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Machine Learning
-- REST APIs
-- System Design
+### Databases
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql,firebase" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true" />
-</p>
+### Tools & Platforms
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishanmenezes&theme=tokyo-night&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,netlify,vercel" />
 </p>
 
 ---
 
-## 🏆 Achievements
-- 🥈 Secured 2nd Place – Cyber Sense (Cyber Security Quiz)
-- 🌍 Hacktoberfest 2025 Open Source Contributor
-- 💻 Participated in Odoo × NMIT Hackathon & HackFest
-- 🤝 Active Member of Stack Forge Coding Club
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌍 **EcoFinds** | AI-powered sustainable marketplace |
+| ✈️ **SkySmart** | AI Flight Booking Platform |
+| 🎓 **MIT Jnana** | Student Resource Hub |
+| 🤖 **OpenEnv** | AI Customer Support Ticket Resolution System |
+| 📚 **LastLeap** | AI-Powered Study Assistant |
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Overview
+
+<p align="center">
+<img src="https://githubcard.com/rishanmenezes.svg" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🥈 2nd Place — **Cyber Sense (Cyber Security Quiz)**
+- 🌍 **Hacktoberfest 2025 Open Source Contributor**
+- 💻 Participant — **Odoo × NMIT Hackathon**
+- 🤝 Active Member — **Stack Forge Coding Club**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/rishanmenezes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/rishan-menezes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://github.com/rishanmenezes">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-  <a href="https://www.instagram.com/rizzshhan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<a href="https://www.linkedin.com/in/rishan-menezes">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/rizzshhan">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
 
-## ☕ Support
-⭐ Star my repositories if you like my work!
+<p align="center">
+⭐ <b>If you like my work, consider starring my repositories!</b>
+</p>
