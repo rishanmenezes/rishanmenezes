@@ -4,11 +4,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Engineering student @Maharaja Institute of Technology, Mysore  
-- 🤖 Specializing in Artificial Intelligence, Reinforcement Learning & Full Stack Development  
-- 💡 Strong in Data Structures & Algorithms, System Design, and Backend Development  
-- ⚡ Building scalable applications + AI-driven systems  
-- 🏆 Participant in multiple hackathons & Hacktoberfest 2025 Open Source Contributor  
+- 🎓 Computer Science Engineering student @ Maharaja Institute of Technology, Mysore
+- 🤖 Specializing in Artificial Intelligence, Reinforcement Learning & Full Stack Development
+- 💡 Strong in Data Structures & Algorithms, System Design, and Backend Development
+- ⚡ Building scalable applications + AI-driven systems
+- 🏆 Participant in multiple hackathons & Hacktoberfest 2025 Open Source Contributor
 - 📫 Reach me at **rishanmenezes05@gmail.com**
 
 ---
@@ -26,35 +26,36 @@
 </p>
 
 ### 📚 Core Concepts
-- Data Structures & Algorithms  
-- Object Oriented Programming (OOP)  
-- Machine Learning  
-- REST APIs  
-- System Design  
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Machine Learning
+- REST APIs
+- System Design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishanmenezes&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanmenezes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishanmenezes&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishanmenezes&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-- 🥈 Secured 2nd Place – Cyber Sense (Cyber Security Quiz)  
-- 🌍 Hacktoberfest 2025 Contributor (Open Source)  
-- 💻 Participated in OdooxNMIT Hackathon & HackFest  
-- 🤝 Active member of Stack Forge Coding Club  
+- 🥈 Secured 2nd Place – Cyber Sense (Cyber Security Quiz)
+- 🌍 Hacktoberfest 2025 Open Source Contributor
+- 💻 Participated in Odoo × NMIT Hackathon & HackFest
+- 🤝 Active Member of Stack Forge Coding Club
 
 ---
 
