@@ -63,7 +63,6 @@ Building intelligent applications with modern web technologies and Artificial In
 - 🥉 3rd Place — **VoltX Ignivox (Ideathon)**
 - 🌍 **Hacktoberfest 2025 Open Source Contributor**
 - 💻 Participant — **Odoo × NMIT Hackathon**
-- 🤝 Active Member — **Stack Forge Coding Club**
 
 ---
 
