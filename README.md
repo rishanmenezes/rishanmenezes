@@ -78,7 +78,7 @@ Building intelligent applications with modern web technologies and Artificial In
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/rizzshhan">
+<a href="https://www.instagram.com/speeedrizz">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
