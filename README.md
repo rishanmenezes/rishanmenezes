@@ -12,12 +12,12 @@ Building intelligent applications with modern web technologies and Artificial In
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student at **Maharaja Institute of Technology, Mysore**
-- 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**
-- 🧠 Strong foundation in **Data Structures & Algorithms** and **Backend Development**
-- ⚡ Interested in building scalable applications and AI-powered solutions
-- 🏆 Multiple Hackathon Winner, Google Cloud Arcade Contributor & Hacktoberfest 2025 Open Source Contributor
-- 📫 Reach me at **rishanmenezes05@gmail.com**
+* 🎓 Computer Science Engineering Student at **Maharaja Institute of Technology, Mysore**
+* 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**
+* 🧠 Strong foundation in **Data Structures & Algorithms** and **Backend Development**
+* ⚡ Interested in building scalable applications and AI-powered solutions
+* 🏆 Multiple Hackathon Winner, Google Cloud Arcade Contributor & Hacktoberfest 2025 Open Source Contributor
+* 📫 Reach me at **[rishanmenezes05@gmail.com](mailto:rishanmenezes05@gmail.com)**
 
 ---
 
@@ -52,17 +52,17 @@ Building intelligent applications with modern web technologies and Artificial In
 # 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishanmenezes&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-streak-vercel.vercel.app?user=rishanmenezes&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 🏆 Achievements
 
-- 🥈 2nd Place — **Cyber Sense (Cyber Security Quiz)**
-- 🥉 3rd Place — **VoltX Ignivox (Ideathon)**
-- 🌍 **Hacktoberfest 2025 Open Source Contributor**
-- 💻 **Google Arcade 2025 Contributor**
+* 🥈 2nd Place — **Cyber Sense (Cyber Security Quiz)**
+* 🥉 3rd Place — **VoltX Ignivox (Ideathon)**
+* 🌍 **Hacktoberfest 2025 Open Source Contributor**
+* 💻 **Google Arcade 2025 Contributor**
 
 ---
 
