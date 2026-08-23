@@ -52,7 +52,7 @@ Building intelligent applications with modern web technologies and Artificial In
 # 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-streak-vercel.vercel.app?user=rishanmenezes&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
