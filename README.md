@@ -23,9 +23,6 @@
 - 🎓 Pursuing a B.E. in Computer Science & Engineering at **Maharaja Institute of Technology, Mysore**.
 - 💻 Interested in full-stack development, backend engineering, and applied AI.
 - 🛠️ Building projects with JavaScript, TypeScript, Python, React, and backend technologies.
-- 🔓 Contributing to open-source repositories through Git and GitHub.
-- 🏆 **3rd Place** — VOLTX IGNIVOX 2026 Ideathon.
-- 🥈 **2nd Place** — Cyber Sense 2025 Cybersecurity Competition.
 - 🌱 Continuously learning through projects, coding, and hands-on practice.
 - 📫 **Email:** [rishanmenezes05@gmail.com](mailto:rishanmenezes05@gmail.com)
 
