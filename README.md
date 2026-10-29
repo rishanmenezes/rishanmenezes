@@ -33,7 +33,7 @@
 ### Languages & Web Fundamentals
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,html,css" alt="Programming languages and web fundamentals" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html,css" alt="Programming languages and web fundamentals" />
 </p>
 
 ### Frontend Development
