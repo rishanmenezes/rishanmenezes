@@ -28,6 +28,17 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Web Fundamentals
@@ -75,12 +86,3 @@
 - 🚀 **Odoo × NMIT Hackathon:** Qualified for the offline round with EcoFinds.
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
