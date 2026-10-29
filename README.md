@@ -75,68 +75,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Voxonix — Real-Time Accessibility Platform
-
-A team-built video calling platform designed to support communication between Deaf, blind, speech-impaired, and hearing users.
-
-- Developed core non-UI functionality for WebRTC calls and WebSocket signaling.
-- Integrated Supabase authentication-token verification, speech-to-text with browser fallback, text-to-speech, and MediaPipe sign recognition.
-- Wrote 60+ automated tests covering key application functionality.
-
-**Technologies:** React · TypeScript · WebRTC · WebSockets · MediaPipe · Supabase
-
-[View Repository](https://github.com/rishanmenezes/voxonix)
-
-### 2. Secure Gemini Assistant — Prompt-Injection Guardrails
-
-An individual project exploring practical security controls for an AI-powered chat application.
-
-- Implemented input guardrails to block detected prompt-injection attempts before model calls.
-- Added output checks for system-prompt and credential leakage.
-- Implemented CSRF protection, security headers, rate limiting, and automated tests.
-
-**Technologies:** Python · Flask · Gemini API · Docker · pytest
-
-[View Repository](https://github.com/rishanmenezes/Guardrails)
-
-### 3. OpenEnv — Customer Support Ticket Resolution
-
-A deterministic environment for evaluating AI agents on simulated customer-support scenarios.
-
-- Designed three scenarios involving refunds, missing information, and suspected fraud.
-- Implemented typed data models, a FastAPI interface, reward shaping, and deterministic grading.
-
-**Technologies:** Python · FastAPI · Pydantic · Docker
-
-[View Repository](https://github.com/rishanmenezes/openenv-customer-support)
-
-### 4. EcoFinds — Sustainable Second-Hand Marketplace
-
-A hackathon project for buying and selling second-hand products while tracking estimated environmental impact.
-
-- Led a team of four and implemented core marketplace functionality, including authentication, product listings, image uploads, shopping cart, purchase history, and seller reviews.
-- Qualified for the offline round at NMIT Bengaluru.
-
-**Technologies:** React · TypeScript · Tailwind CSS · TanStack Query · Supabase
-
-[View Repository](https://github.com/rishanmenezes/ecofinds)
-
-### 5. MIT Jnana — Student Resource Hub
-
-An individually developed and deployed notes platform for students at MIT Mysore.
-
-- Organizes notes by engineering branch, semester, and subject.
-- Includes search, direct note links, and an in-browser PDF viewer.
-- Hosts 690+ notes and has recorded 5,000+ visits.
-
-**Technologies:** React · JavaScript · Vite · CSS · Netlify
-
-[Visit Website](https://mit-jnana.netlify.app/) · [View Repository](https://github.com/rishanmenezes/Mit-Jnana)
-
----
-
 ## 🏆 Achievements
 
 - 🥉 **3rd Place — VOLTX IGNIVOX 2026 Ideathon**, MIT Mysore.
@@ -153,12 +91,5 @@ An individually developed and deployed notes platform for students at MIT Mysore
   <img
     src="https://streak-stats.demolab.com?user=rishanmenezes&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
   />
 </p>
