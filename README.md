@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rishan Menezes</h1>
 
 <h3 align="center">
@@ -162,22 +161,4 @@ An individually developed and deployed notes platform for students at MIT Mysore
     src="https://github-readme-stats.vercel.app/api?username=rishanmenezes&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub statistics"
   />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/rishanmenezes">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/rishan-menezes/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://rishanportfolio.netlify.app/">Portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:rishanmenezes05@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
 </p>
