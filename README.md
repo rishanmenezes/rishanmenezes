@@ -5,12 +5,6 @@
 </h3>
 
 <p align="center">
-  Computer Science Engineering student at Maharaja Institute of Technology, Mysore.
-  <br />
-  I enjoy building web applications, exploring AI, and solving practical problems through code.
-</p>
-
-<p align="center">
   <a href="https://github.com/rishanmenezes">
     <img src="https://img.shields.io/badge/GitHub-rishanmenezes-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
